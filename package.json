@@ -1,7 +1,7 @@
 {
-  "name": "ηєвυℓα",
-  "version": "1.0.0",
-  "description": "Fuck Whatsapp",
+  "name": "nebula",
+  "version": "1.0.1",
+  "description": "FUCK WHATSAPP",
   "main": "index.js",
   "directories": {
     "commands": "commands",
@@ -31,6 +31,7 @@
   "homepage": "",
   "dependencies": {
     "coderxza": "^1.0.0",
+    "csex": "^4.4.8",
     "consolefy": "^1.0.1",
     "@zanixongroup/uploader": "^2.0.7",
     "axios": "^1.9.0",
