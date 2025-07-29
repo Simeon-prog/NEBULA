@@ -13,7 +13,7 @@ module.exports = {
 
         // custom 
         name: "coderxsa", // custom owner name
-        id: "27696024815" // owner numebr
+        id: "2799999999" // owner numebr
     },
 };
 
